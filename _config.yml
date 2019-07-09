@@ -3,7 +3,7 @@ description: "A data enthusiast"
 about: "a data enthusiast, reader, volunteer"
 location: "Toronto, Canada"
 email: write.to.josie@gmail.com
-baseurl: "/"
+baseurl:"/material-theme"
 
 url: "josiechoi.github.io" # replace by your site's url
 twitter_username: adichotomist
