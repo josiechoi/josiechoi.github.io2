@@ -1,5 +1,6 @@
 # light material jekyll theme
 a lightweight jekyll blogging theme, perfect for your personal page.
+lightweight jekyll blog theme http://himsel.me/material-theme
 
 # [DEMO](http://himsel.me/material-theme)
 # [Who is using this theme?](http://himsel.me/06-15-2017-Jekyll-themes.html)
